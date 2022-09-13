@@ -2,7 +2,7 @@
   <br>
   <br>
   <samp>Bonjour</samp>
-   <samp><I am target="_blank" href="https://sdey.dev/">Shreyans</a>.</samp>
   <br>
+  <samp>I'm <a target="_blank" href="https://sdey.dev/">Shreyans</a></samp>
   <br>
 </p>
