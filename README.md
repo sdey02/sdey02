@@ -1,6 +1,4 @@
 <p align="center">
-  <br>
-  <br>
   <samp>Bonjour</samp>
   <br>
   <samp>My name is <a target="_blank" href="https://sdey.dev/">Shreyans</a></samp>
